@@ -24,5 +24,8 @@ namespace cs3500
 
         static void c(string s)
         { }
+
+        static void d(int i)
+        { }
     }
 }
