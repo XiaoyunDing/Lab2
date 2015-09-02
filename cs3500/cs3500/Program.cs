@@ -19,13 +19,13 @@ namespace cs3500
 
         static void b(int x)
         {
-
+           
         }
 
         static void c(string s)
         { }
 
-        static void d(int i)
+        static void ding(int i)
         { }
     }
 }
