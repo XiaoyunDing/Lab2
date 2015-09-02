@@ -14,7 +14,7 @@ namespace cs3500
 
         static void a()
         {
-
+            Console.WriteLine("hello world");
         }
 
         static void b(int x)
